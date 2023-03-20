@@ -1,6 +1,6 @@
 # payload dumper
 
-Dumps the `payload.bin` image found in Android update images. Has significant performance gains over other tools due to using multiprocessing.
+Dumps the `payload.bin` image found in Android update images. Has significant performance gains over other tools due to using multiprocessing. The extracted files land in `~/output`.
 
 ## Installation
 
